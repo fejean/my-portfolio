@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    padding: 30px 15px;
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+    color: #1e293b;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: #1d4ed8;
+}
+
+h2 {
+    color: #2563eb;
+}
+
+.hero-content {
+    text-align: center;
+}
+
+p {
+    line-height: 1.7;
+}
+
+@media (max-width: 600px) {
+    main {
+        padding: 15px;
+    }
+}
