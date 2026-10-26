@@ -58,4 +58,4 @@ footer p{margin:0}
 footer a{color:white;text-decoration:none}
 @media(max-width:900px){.site-header{align-items:flex-start;flex-direction:column}.content-grid{grid-template-columns:1fr}.experience-panel{grid-row:auto}}
 @media(max-width:600px){.hero{min-height:490px;align-items:flex-start;padding-top:35px;background-position:63% center}.hero-shade{background:linear-gradient(90deg,rgba(4,24,51,.95),rgba(4,24,51,.72))}.eyebrow{font-size:.62rem}.citadelle-caption{left:22px;right:22px;text-align:left}.two-col{grid-template-columns:1fr}.panel{grid-template-columns:34px minmax(0,1fr);padding:14px 12px;gap:10px}.panel-icon{width:32px;height:32px}.job-heading{align-items:flex-start;flex-direction:column;gap:0}}
-S
+
